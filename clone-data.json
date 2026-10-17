@@ -1,0 +1,98 @@
+{
+  "capturedAt": "2026-09-02T20:01:32.879Z",
+  "counts": {
+    "fonts": 69,
+    "images": 26,
+    "sections": 18,
+    "stylesheets": 2
+  },
+  "options": {
+    "assets": true,
+    "css": true,
+    "deep": true,
+    "maxpages": 15,
+    "multipage": true,
+    "screenshots": true,
+    "scripts": true
+  },
+  "title": "Marketing Contábil com Relacionamento | Plataforma InforGrafic",
+  "url": "https://inforgrafic.com.br/",
+  "viewport": {
+    "dpr": 1,
+    "h": 835,
+    "w": 1920
+  },
+  "multipage": true,
+  "extraPages": [
+    {
+      "url": "https://inforgrafic.com.br/quem-somos/",
+      "slug": "quem-somos",
+      "htmlPath": "pages/quem-somos/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/",
+      "slug": "assinaturas",
+      "htmlPath": "pages/assinaturas/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/aplicativo-contabil/",
+      "slug": "assinaturas-aplicativo-contabil",
+      "htmlPath": "pages/assinaturas-aplicativo-contabil/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/blog-contabil/",
+      "slug": "assinaturas-blog-contabil",
+      "htmlPath": "pages/assinaturas-blog-contabil/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/informativo-contabil-impresso/",
+      "slug": "assinaturas-informativo-contabil-impresso",
+      "htmlPath": "pages/assinaturas-informativo-contabil-impresso/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/informativo-digital-contabil/",
+      "slug": "assinaturas-informativo-digital-contabil",
+      "htmlPath": "pages/assinaturas-informativo-digital-contabil/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/link-na-bio/",
+      "slug": "assinaturas-link-na-bio",
+      "htmlPath": "pages/assinaturas-link-na-bio/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/newsletter-contabil/",
+      "slug": "assinaturas-newsletter-contabil",
+      "htmlPath": "pages/assinaturas-newsletter-contabil/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/assinaturas/site-one-page/",
+      "slug": "assinaturas-site-one-page",
+      "htmlPath": "pages/assinaturas-site-one-page/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/faq/",
+      "slug": "faq",
+      "htmlPath": "pages/faq/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/blog/",
+      "slug": "blog",
+      "htmlPath": "pages/blog/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/contato/",
+      "slug": "contato",
+      "htmlPath": "pages/contato/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/dependencia-de-indicacao-contabil/",
+      "slug": "dependencia-de-indicacao-contabil",
+      "htmlPath": "pages/dependencia-de-indicacao-contabil/index.html"
+    },
+    {
+      "url": "https://inforgrafic.com.br/falta-de-comunicacao-na-contabilidade/",
+      "slug": "falta-de-comunicacao-na-contabilidade",
+      "htmlPath": "pages/falta-de-comunicacao-na-contabilidade/index.html"
+    }
+  ]
+}

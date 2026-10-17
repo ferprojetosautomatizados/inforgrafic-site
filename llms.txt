@@ -1,0 +1,31 @@
+# InforGrafic — Agência de Marketing Contábil
+
+> Especialistas em Marketing Contábil para escritórios de contabilidade no Brasil.
+> Ajudamos contadores a construir presença digital, atrair clientes e fortalecer relacionamentos.
+
+## Páginas principais
+
+- [Home](https://inforgrafic.com.br/)
+- [Quem Somos](https://inforgrafic.com.br/quem-somos/)
+- [Assinaturas](https://inforgrafic.com.br/assinaturas/)
+- [Blog](https://inforgrafic.com.br/blog/)
+- [Contato](https://inforgrafic.com.br/contato/)
+
+## Serviços
+
+Marketing digital especializado para contabilidade:
+- Gestão de redes sociais para contadores
+- Criação de conteúdo contábil
+- Email marketing para contabilidade
+- SEO local para escritórios contábeis
+- Aplicativo de relacionamento contábil
+
+## Cobertura geográfica
+
+Atendemos escritórios de contabilidade em todo o Brasil.
+Páginas locais: https://inforgrafic.com.br/marketing-para-contabilidade-{cidade}/
+
+## Contato
+
+- Site: https://inforgrafic.com.br
+- WhatsApp: (47) 99259-5198
